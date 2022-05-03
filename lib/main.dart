@@ -8,6 +8,6 @@ void main() {
 class CFEApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, title: 'App CFE', home: PaginaInicial());
+    return MaterialApp(debugShowCheckedModeBanner: false, title: 'App CFE 2', home: PaginaInicial());
   } //Widget
 } //Clase CFEApp widget sin estado
